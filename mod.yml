@@ -7691,3 +7691,43 @@ assets:
   method: copy
   source:
   - name: remastered/voice/event/tz/tz_091.vset/tz2410ma.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0301go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0301go.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0302ji.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0302ji.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0303do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0303do.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0304go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0304go.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0305go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0305go.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0306go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0306go.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0307do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0307do.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0308go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0308go.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0309do.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0309do.win32.scd
+- name: remastered/voice/event/dc/dc_006 .vset/dc0310go.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/event/dc/dc_006 .vset/dc0310go.win32.scd
