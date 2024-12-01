@@ -1,7 +1,7 @@
 title: KHFMSpanish
 originalAuthor: You
-description: Generated on Sun, 01 Dec 2024 20:10:49 GMT
-dependencies: 
+description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por PLASMA y su equipo. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
+dependencies:
 assets:
 - name: remastered/voice/event/al/al_001.vset/al0101do.win32.scd
   method: copy
