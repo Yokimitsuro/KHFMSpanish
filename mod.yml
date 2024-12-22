@@ -3,6 +3,24 @@ originalAuthor: Spanish Mix++
 description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por Spanish Mix++. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
 dependencies:
 assets:
+- name: remastered\title\title.img\-131.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\title\title.img\-131.dds
+- name: remastered\title\title.img\-168231.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\title\title.img\-168231.dds
+- name: remastered\title\title.img\-1501b1.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\title\title.img\-1501b1.dds
 - name: remastered/voice/event/al/al_001.vset/al0101do.win32.scd
   method: copy
   source:
