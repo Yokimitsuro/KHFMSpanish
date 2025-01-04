@@ -7821,3 +7821,23 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1010.mdls/rk01ex02.win32.scd
+- name: remastered/title/copyright.tm2/-40.dds
+  method: copy
+  source:
+  - name: remastered/title/copyright.tm2/-40.dds
+- name: remastered/title/title.img/-130.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-130.dds
+- name: remastered/title/title.img/-1501b0.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-1501b0.dds
+- name: remastered/title/title.img/-168230.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-168230.dds
+- name: remastered/title/title.img/-c0170.dds
+  method: copy
+  source:
+  - name: remastered/title/title.img/-c0170.dds
