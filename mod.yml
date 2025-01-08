@@ -7889,3 +7889,43 @@ assets:
   method: copy
   source:
   - name: remastered/xa_di_1010.mdls/te00ex03.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00at00.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00at01.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00at02.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da00.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da01.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da02.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00da03.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00ex00.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00ex01.win32.scd
+- name: remastered/xa_di_1030.mdls/wa00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_di_1030.mdls/wa00ex02.win32.scd
