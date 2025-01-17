@@ -7933,3 +7933,163 @@ assets:
   method: copy
   source:
   - name: remastered/voice/di_sora.vsb/di_sora.win32.scd
+- name: remastered/voice/aladdin.vsb/aladdin.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aladdin.vsb/aladdin.win32.scd
+- name: remastered/voice/al_donald.vsb/al_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/al_donald.vsb/al_donald.win32.scd
+- name: remastered/voice/al_goofy.vsb/al_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/al_goofy.vsb/al_goofy.win32.scd
+- name: remastered/voice/al_sora.vsb/al_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/al_sora.vsb/al_sora.win32.scd
+- name: remastered/voice/ariel.vsb/ariel.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/ariel.vsb/ariel.win32.scd
+- name: remastered/voice/aw_donald.vsb/aw_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aw_donald.vsb/aw_donald.win32.scd
+- name: remastered/voice/aw_goofy.vsb/aw_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aw_goofy.vsb/aw_goofy.win32.scd
+- name: remastered/voice/aw_sora.vsb/aw_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/aw_sora.vsb/aw_sora.win32.scd
+- name: remastered/voice/beast.vsb/beast.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/beast.vsb/beast.win32.scd
+- name: remastered/voice/ew_donald.vsb/ew_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/ew_donald.vsb/ew_donald.win32.scd
+- name: remastered/voice/ew_goofy.vsb/ew_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/ew_goofy.vsb/ew_goofy.win32.scd
+- name: remastered/voice/ew_sora.vsb/ew_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/ew_sora.vsb/ew_sora.win32.scd
+- name: remastered/voice/he_donald.vsb/he_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/he_donald.vsb/he_donald.win32.scd
+- name: remastered/voice/he_goofy.vsb/he_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/he_goofy.vsb/he_goofy.win32.scd
+- name: remastered/voice/he_sora.vsb/he_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/he_sora.vsb/he_sora.win32.scd
+- name: remastered/voice/jack.vsb/jack.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/jack.vsb/jack.win32.scd
+- name: remastered/voice/lm_donald.vsb/lm_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/lm_donald.vsb/lm_donald.win32.scd
+- name: remastered/voice/lm_goofy.vsb/lm_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/lm_goofy.vsb/lm_goofy.win32.scd
+- name: remastered/voice/lm_sora.vsb/lm_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/lm_sora.vsb/lm_sora.win32.scd
+- name: remastered/voice/nm_donald.vsb/nm_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/nm_donald.vsb/nm_donald.win32.scd
+- name: remastered/voice/nm_goofy.vsb/nm_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/nm_goofy.vsb/nm_goofy.win32.scd
+- name: remastered/voice/nm_sora.vsb/nm_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/nm_sora.vsb/nm_sora.win32.scd
+- name: remastered/voice/pc_donald.vsb/pc_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pc_donald.vsb/pc_donald.win32.scd
+- name: remastered/voice/pc_goofy.vsb/pc_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pc_goofy.vsb/pc_goofy.win32.scd
+- name: remastered/voice/pc_sora.vsb/pc_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pc_sora.vsb/pc_sora.win32.scd
+- name: remastered/voice/peterpan.vsb/peterpan.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/peterpan.vsb/peterpan.win32.scd
+- name: remastered/voice/pi_donald.vsb/pi_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pi_donald.vsb/pi_donald.win32.scd
+- name: remastered/voice/pi_goofy.vsb/pi_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pi_goofy.vsb/pi_goofy.win32.scd
+- name: remastered/voice/pi_sora.vsb/pi_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pi_sora.vsb/pi_sora.win32.scd
+- name: remastered/voice/po_sora.vsb/po_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/po_sora.vsb/po_sora.win32.scd
+- name: remastered/voice/pp_donald.vsb/pp_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pp_donald.vsb/pp_donald.win32.scd
+- name: remastered/voice/pp_goofy.vsb/pp_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pp_goofy.vsb/pp_goofy.win32.scd
+- name: remastered/voice/pp_sora.vsb/pp_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/pp_sora.vsb/pp_sora.win32.scd
+- name: remastered/voice/tarzan.vsb/tarzan.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tarzan.vsb/tarzan.win32.scd
+- name: remastered/voice/tw_donald.vsb/tw_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tw_donald.vsb/tw_donald.win32.scd
+- name: remastered/voice/tw_goofy.vsb/tw_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tw_goofy.vsb/tw_goofy.win32.scd
+- name: remastered/voice/tw_sora.vsb/tw_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tw_sora.vsb/tw_sora.win32.scd
+- name: remastered/voice/tz_donald.vsb/tz_donald.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tz_donald.vsb/tz_donald.win32.scd
+- name: remastered/voice/tz_goofy.vsb/tz_goofy.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tz_goofy.vsb/tz_goofy.win32.scd
+- name: remastered/voice/tz_sora.vsb/tz_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/tz_sora.vsb/tz_sora.win32.scd
