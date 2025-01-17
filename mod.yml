@@ -7929,3 +7929,7 @@ assets:
   method: copy
   source:
   - name: remastered/xa_di_1030.mdls/wa00ex02.win32.scd
+- name: remastered/voice/di_sora.vsb/di_sora.win32.scd
+  method: copy
+  source:
+  - name: remastered/voice/di_sora.vsb/di_sora.win32.scd
