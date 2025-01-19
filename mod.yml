@@ -8093,3 +8093,35 @@ assets:
   method: copy
   source:
   - name: remastered/voice/tz_sora.vsb/tz_sora.win32.scd
+- name: remastered/he01.ard/-107041.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-107041.dds
+- name: remastered/he01.ard/-10be80.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-10be80.dds
+- name: remastered/he02.ard/-6bb40.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-6bb40.dds
+- name: remastered/he02.ard/-71680.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-71680.dds
+- name: remastered/he02.ard/-932c0.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-932c0.dds
+- name: remastered/he02.ard/-9a700.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-9a700.dds
+- name: remastered/he02.ard/-9cdc1.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-9cdc1.dds
+- name: remastered/he02.ard/-a1c00.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-a1c00.dds
