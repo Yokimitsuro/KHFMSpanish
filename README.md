@@ -76,6 +76,8 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ## 🎙️ Actores de doblaje
 
+- **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/) 
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
+- **Garfio:** [Sasu](https://www.instagram.com/sasukudubs/)
