@@ -8246,10 +8246,6 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_04.img/-11a10e.dds
-- name: remastered/tw00_04.img/-11d506.dds
-  method: copy
-  source:
-  - name: remastered/tw00_04.img/-11d506.dds
 - name: remastered/tw00_04.img/-4a10d.dds
   method: copy
   source:
@@ -8310,3 +8306,7 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_01.bin/-1e69f0.dds
+- name: remastered/di.wdt/-be80.dds
+  method: copy
+  source:
+  - name: remastered/di.wdt/-be80.dds
