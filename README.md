@@ -21,7 +21,7 @@
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
-- 🕒 50% Ciudad de Paso.
+- 🕒 85% Ciudad de Paso.
 - ❌ 0% País de las Maravillas.
 - ❌ 0% Coliseo.
 - ❌ 0% Selva Profunda.
@@ -76,6 +76,8 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ## 🎙️ Actores de doblaje
 
+- **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/) 
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
+- **Garfio:** [Sasu](https://www.instagram.com/sasukudubs/)
