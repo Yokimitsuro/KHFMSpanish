@@ -76,8 +76,10 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ## 🎙️ Actores de doblaje
 
-- **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/) 
+- **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/)
+- **Riku:** [Mikel Sanchez](https://www.instagram.com/grixmistery/)
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
+- **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
 - **Garfio:** [Sasu](https://www.instagram.com/sasukudubs/)
