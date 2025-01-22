@@ -2,7 +2,7 @@
 
 ![PORTADA jpg](https://github.com/user-attachments/assets/cac71017-f182-4234-81e3-69c40aa61653)
 
-## 🌐 URLS:
+## 🌐 URLs:
 
 [**Twitter**](https://x.com/KHSPMix)
 
