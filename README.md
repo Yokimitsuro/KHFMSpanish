@@ -21,7 +21,7 @@
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
-- 🕒 50% Ciudad de Paso.
+- 🕒 850% Ciudad de Paso.
 - ❌ 0% País de las Maravillas.
 - ❌ 0% Coliseo.
 - ❌ 0% Selva Profunda.
