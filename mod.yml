@@ -8222,3 +8222,47 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_01.img/-bad08.dds
+- name: remastered/tw00_02.img/-1f904.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-1f904.dds
+- name: remastered/tw00_02.img/-7f911.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-7f911.dds
+- name: remastered/tw00_02.img/-8f90d.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-8f90d.dds
+- name: remastered/tw00_03.img/-11ad00.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-11ad00.dds
+- name: remastered/tw00_03.img/-7ad07.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-7ad07.dds
+- name: remastered/tw00_04.img/-11a10e.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-11a10e.dds
+- name: remastered/tw00_04.img/-11d506.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-11d506.dds
+- name: remastered/tw00_04.img/-4a10d.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-4a10d.dds
+- name: remastered/tw00_04.img/-ea104.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-ea104.dds
+- name: remastered/tw00_14.img/-11b100.dds
+  method: copy
+  source:
+  - name: remastered/tw00_14.img/-11b100.dds
+- name: remastered/tw00_14.img/-7b107.dds
+  method: copy
+  source:
+  - name: remastered/tw00_14.img/-7b107.dds
