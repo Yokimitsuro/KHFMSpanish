@@ -8290,3 +8290,11 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_06.img/-dd502.dds
+- name: remastered/tw00_01.img/-aad0b.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-aad0b.dds
+- name: remastered/tw00_06.img/-ad502.dds
+  method: copy
+  source:
+  - name: remastered/tw00_06.img/-ad502.dds
