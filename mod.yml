@@ -8270,3 +8270,23 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_06.img/-11d506.dds
+- name: remastered/tw00_01.img/-7ad02.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-7ad02.dds
+- name: remastered/tw00_02.img/-ef901.dds
+  method: copy
+  source:
+  - name: remastered/tw00_02.img/-ef901.dds
+- name: remastered/tw00_04.img/-6a12d.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-6a12d.dds
+- name: remastered/tw00_04.img/-aa103.dds
+  method: copy
+  source:
+  - name: remastered/tw00_04.img/-aa103.dds
+- name: remastered/tw00_06.img/-dd502.dds
+  method: copy
+  source:
+  - name: remastered/tw00_06.img/-dd502.dds
