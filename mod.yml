@@ -8310,3 +8310,7 @@ assets:
   method: copy
   source:
   - name: remastered/di.wdt/-be80.dds
+- name: remastered/load_icon_a.tm2/-40.dds
+  method: copy
+  source:
+  - name: remastered/load_icon_a.tm2/-40.dds
