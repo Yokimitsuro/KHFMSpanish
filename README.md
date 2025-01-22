@@ -77,4 +77,5 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 ## 🎙️ Actores de doblaje
 
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
+- **Selphie/R.Corazonez:** [Gini-Gini](https://x.com/_GiniGini_)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
