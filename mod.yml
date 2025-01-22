@@ -8298,3 +8298,15 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_06.img/-ad502.dds
+- name: remastered/tw00_01.bin/-1e41b0.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.bin/-1e41b0.dds
+- name: remastered/tw00_01.bin/-1e55d0.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.bin/-1e55d0.dds
+- name: remastered/tw00_01.bin/-1e69f0.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.bin/-1e69f0.dds
