@@ -8266,3 +8266,7 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_14.img/-7b107.dds
+- name: remastered/tw00_06.img/-11d506.dds
+  method: copy
+  source:
+  - name: remastered/tw00_06.img/-11d506.dds
