@@ -2,7 +2,7 @@ title: KHFM - Voces en Castellano
 originalAuthor: Spanish Mix++
 description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por Spanish Mix++. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
 game: kh1
-dependencies:
+dependencies: 
 assets:
 - name: remastered/title/title.img/-131.dds
   method: copy
@@ -8310,3 +8310,35 @@ assets:
   method: copy
   source:
   - name: remastered/di.wdt/-be80.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-139c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-139c0.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-1a620.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-1a620.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-6100.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-6100.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-8520.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-8520.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
+- name: remastered/eveffect/di/di_002.dpx/-127e0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/-127e0.dds
+- name: remastered/eveffect/di/di_002.dpx/-23c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/di/di_002.dpx/-23c0.dds
