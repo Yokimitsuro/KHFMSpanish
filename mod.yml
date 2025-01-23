@@ -8318,3 +8318,11 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_01.img/-ead01.dds
+- name: remastered/tw00_01.img/-4ad02.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-4ad02.dds
+- name: remastered/tw00_03.img/-7ad03.dds
+  method: copy
+  source:
+  - name: remastered/tw00_03.img/-7ad03.dds
