@@ -8314,3 +8314,7 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/di/di_002.dpx/-127e0.dds
+- name: remastered/tw00_01.img/-ead01.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-ead01.dds
