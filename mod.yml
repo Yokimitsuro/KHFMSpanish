@@ -8338,3 +8338,11 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/tw/tw_000.dpx/-1cb40.dds
+- name: remastered/eveffect/tw/tw_000.dpx/-12300.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tw/tw_000.dpx/-12300.dds
+- name: remastered/eveffect/tw/tw_000.dpx/-1ef60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tw/tw_000.dpx/-1ef60.dds
