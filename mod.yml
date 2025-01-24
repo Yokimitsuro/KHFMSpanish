@@ -8366,3 +8366,119 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/he/he_000.dpx/-d1a0.dds
+- name: remastered/aw.wdt/-136c0.dds
+  method: copy
+  source:
+  - name: remastered/aw.wdt/-136c0.dds
+- name: remastered/he00_02.img/-23d06.dds
+  method: copy
+  source:
+  - name: remastered/he00_02.img/-23d06.dds
+- name: remastered/he00_04.img/-24106.dds
+  method: copy
+  source:
+  - name: remastered/he00_04.img/-24106.dds
+- name: remastered/he00_05.img/-24106.dds
+  method: copy
+  source:
+  - name: remastered/he00_05.img/-24106.dds
+- name: remastered/he01.ard/-11d00.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-11d00.dds
+- name: remastered/he01.ard/-1a340.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-1a340.dds
+- name: remastered/he01.ard/-1a780.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-1a780.dds
+- name: remastered/he01.ard/-22dc0.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-22dc0.dds
+- name: remastered/he01.ard/-22dc1.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-22dc1.dds
+- name: remastered/he01.ard/-25680.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-25680.dds
+- name: remastered/he01.ard/-35680.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-35680.dds
+- name: remastered/he01.ard/-8e40.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-8e40.dds
+- name: remastered/he01.ard/-9280.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-9280.dds
+- name: remastered/he04.ard/-118c0.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-118c0.dds
+- name: remastered/he04.ard/-11d00.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-11d00.dds
+- name: remastered/he04.ard/-1a340.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-1a340.dds
+- name: remastered/he04.ard/-1a780.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-1a780.dds
+- name: remastered/he04.ard/-22dc0.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-22dc0.dds
+- name: remastered/he04.ard/-22dc1.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-22dc1.dds
+- name: remastered/he04.ard/-25680.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-25680.dds
+- name: remastered/he04.ard/-35680.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-35680.dds
+- name: remastered/he04.ard/-8e40.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-8e40.dds
+- name: remastered/he04.ard/-9280.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-9280.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-115a0.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-139c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-139c0.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-1a620.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-1a620.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-6100.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-6100.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-8520.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-8520.dds
+- name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
