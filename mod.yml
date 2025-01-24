@@ -8362,7 +8362,7 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/he/he_000.dpx/-115c0.dds
-- name: remastered/eveffect/he/he_000.dpx/-40e0.dds
+- name: remastered/eveffect/he/he_000.dpx/-d1a0.dds
   method: copy
   source:
-  - name: remastered/eveffect/he/he_000.dpx/-40e0.dds
+  - name: remastered/eveffect/he/he_000.dpx/-d1a0.dds
