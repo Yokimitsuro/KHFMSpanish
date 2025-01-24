@@ -8346,3 +8346,11 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/tw/tw_000.dpx/-1ef60.dds
+- name: remastered/tw.wdt/-32be0.dds
+  method: copy
+  source:
+  - name: remastered/tw.wdt/-32be0.dds
+- name: remastered/tw00_01.img/-3ad03.dds
+  method: copy
+  source:
+  - name: remastered/tw00_01.img/-3ad03.dds
