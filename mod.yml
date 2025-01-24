@@ -8354,3 +8354,15 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_01.img/-3ad03.dds
+- name: remastered/he.wdt/-40e0.dds
+  method: copy
+  source:
+  - name: remastered/he.wdt/-40e0.dds
+- name: remastered/eveffect/he/he_000.dpx/-115c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/he/he_000.dpx/-115c0.dds
+- name: remastered/eveffect/he/he_000.dpx/-40e0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/he/he_000.dpx/-40e0.dds
