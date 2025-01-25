@@ -8546,3 +8546,11 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/tz/tz_000.dpx/-9220.dds
+- name: remastered/eveffect/he/he_000.dpx/-8d80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/he/he_000.dpx/-8d80.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-4e00.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-4e00.dds
