@@ -8482,3 +8482,43 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/aw/aw_001.dpx/-cd60.dds
+- name: remastered/he00_01.img/-73500.dds
+  method: copy
+  source:
+  - name: remastered/he00_01.img/-73500.dds
+- name: remastered/he00_01.img/-a3501.dds
+  method: copy
+  source:
+  - name: remastered/he00_01.img/-a3501.dds
+- name: remastered/he00_02.img/-63d00.dds
+  method: copy
+  source:
+  - name: remastered/he00_02.img/-63d00.dds
+- name: remastered/he00_03.img/-73500.dds
+  method: copy
+  source:
+  - name: remastered/he00_03.img/-73500.dds
+- name: remastered/he00_03.img/-a3501.dds
+  method: copy
+  source:
+  - name: remastered/he00_03.img/-a3501.dds
+- name: remastered/he00_04.img/-54100.dds
+  method: copy
+  source:
+  - name: remastered/he00_04.img/-54100.dds
+- name: remastered/he00_05.img/-54500.dds
+  method: copy
+  source:
+  - name: remastered/he00_05.img/-54500.dds
+- name: remastered/lm.wdt/-c750.dds
+  method: copy
+  source:
+  - name: remastered/lm.wdt/-c750.dds
+- name: remastered/tz.wdt/-f7e0.dds
+  method: copy
+  source:
+  - name: remastered/tz.wdt/-f7e0.dds
+- name: remastered/eveffect/lm/lm_002.dpx/-2620.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/lm/lm_002.dpx/-2620.dds
