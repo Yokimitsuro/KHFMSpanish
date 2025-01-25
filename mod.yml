@@ -8522,3 +8522,27 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/lm/lm_002.dpx/-2620.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-11640.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-11640.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-19a60.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-19a60.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-21e80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-21e80.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-2a2a0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-2a2a0.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-326c0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-326c0.dds
+- name: remastered/eveffect/tz/tz_000.dpx/-9220.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/tz/tz_000.dpx/-9220.dds
