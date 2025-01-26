@@ -4,9 +4,7 @@
 
 ## 🌐 URLs:
 
-[**Twitter**](https://x.com/KHSPMix)
-
-[**Youtube**](https://www.youtube.com/@KHSPMix)
+[**Redes sociales**](http://linktr.ee/khspmix)
 
 [**NexusMod**](#)
 
