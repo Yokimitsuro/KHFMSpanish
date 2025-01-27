@@ -22,7 +22,7 @@
 - 🕒 85% Ciudad de Paso.
 - ❌ 0% País de las Maravillas.
 - ❌ 0% Coliseo.
-- ❌ 0% Selva Profunda.
+- 🕒 2% Selva Profunda.
 - ❌ 0% Bosque de los 100 Acres.
 - ❌ 0% Agrabah.
 - ❌ 0% Monstruo.
@@ -87,3 +87,4 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ursula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 -  **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
+-  **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6)
