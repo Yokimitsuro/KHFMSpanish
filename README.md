@@ -15,7 +15,7 @@
 ## Este mod incluye:
 **📜 Texturas traducidas al español.**
 
-**📜 Historia principal doblada al español:**
+**📜 Todas las voces dobladas al español:**
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Islas del Destino.
