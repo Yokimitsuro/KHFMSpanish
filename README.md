@@ -80,6 +80,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
+- **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
 - **Garfio:** [Sasu](https://www.instagram.com/sasukudubs/)
 - **Jetsam, Hades, Finklstn:** [Santiago Rivas (Diane)](https://www.instagram.com/santiagorivaslocutor/)
@@ -88,4 +89,4 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ursula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 -  **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
--  **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6)
+-  **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
