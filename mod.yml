@@ -8558,3 +8558,7 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/tz/tz_000.dpx/-4e00.dds
+- name: remastered/worldmap/wi/wp_tw.tzb/-180.dds
+  method: copy
+  source:
+  - name: remastered/worldmap/wi/wp_tw.tzb/-180.dds
