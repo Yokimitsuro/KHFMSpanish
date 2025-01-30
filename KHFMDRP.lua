@@ -34,7 +34,7 @@ function _OnFrame()
     local Dificultad = {"Principiante", "Normal", "Experto"}
     local Mundos = {
         "corazon", "islasdestino", "castillodisney", "ciudaddepaso", "paisdelasmaravillas",
-        "selvaprofundas", "bosque100acres", "", "agrabah", "atlantica", "halloweentown",
+        "selvaprofunda", "bosque100acres", "", "agrabah", "atlantica", "halloweentown",
         "coliseo", "monstruo", "nuncajamas", "", "bastionhueco", "findelmundo"
     }
 
