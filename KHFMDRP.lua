@@ -1,10 +1,18 @@
+-- Variables
 local ListaDeSalas
 local TextoMundo
 local TiempoFotograma = 0
 local PuedeEjecutar = true
 
-function Inicializar()
-    if GAME_ID == 0xAF71841E and ENGINE_TYPE == "BACKEND" then
+-- Constantes
+local GAME_ID_VALIDO = 0xAF71841E
+local ENGINE_TYPE_VALIDO = "BACKEND"
+local ENGINE_VERSION_MINIMA = 5
+local MENU_PRINCIPAL = 0xFF
+
+-- Inicializa el script
+local function Inicializar()
+    if GAME_ID == GAME_ID_VALIDO and ENGINE_TYPE == ENGINE_TYPE_VALIDO then
         InitializeRPC("1334277597416128513")
     else
         ConsolePrint("Juego inválido. Este script solo funciona con KHFM PC (versión global).", 3)
@@ -12,37 +20,29 @@ function Inicializar()
     end
 end
 
+-- Función de inicialización
 function _OnInit()
+    ConsolePrint("===================================")
     ConsolePrint("====== Kingdom Hearts FM DRP ======")
     ConsolePrint("======   KH:Spanish Mix ++   ======")
+    ConsolePrint("===================================")
     print("")
 
-    if ENGINE_VERSION < 5 then
+    if ENGINE_VERSION < ENGINE_VERSION_MINIMA then
         ConsolePrint("Versión incorrecta de LuaEngine. ¡Usa al menos la versión 5!", 3)
     end
 
     Inicializar()
-end
 
-function _OnFrame()
-    if not PuedeEjecutar then return end
-
-    TiempoFotograma = TiempoFotograma + 1
-    if TiempoFotograma < GetHertz() then return end
-    TiempoFotograma = 0
-
-    local Dificultad = {"Principiante", "Normal", "Experto"}
-    local Mundos = {
+    -- Inicializar variables
+    Dificultad = {"Principiante", "Normal", "Experto"}
+    Mundos = {
         "corazon", "islasdestino", "castillodisney", "ciudaddepaso", "paisdelasmaravillas",
         "selvaprofunda", "bosque100acres", "", "agrabah", "atlantica", "halloweentown",
         "coliseo", "monstruo", "nuncajamas", "", "bastionhueco", "findelmundo"
     }
-
-    local TextoDetalle = "Nv. " .. ReadByte(0x2DE9364) .. " (" .. Dificultad[ReadByte(0x2DFF78C) + 1] .. ")"
-    local IDMundo, IDSala = ReadByte(0x233FE94), ReadByte(0x233FE8C)
-
-    local ListaMundos = {
-        [0x00] = {"Descenso al Corazon", {"Desembarco", "Plataforma de Cenicienta", "Plataforma de Alicia",
+    ListaMundos = {
+        [0x00] = {"Descenso al Corazón", {"Desembarco", "Plataforma de Cenicienta", "Plataforma de Alicia",
          "Despertar", "Despertar", "Islas del Destino", "Islas del Destino"}},
         [0x01] = {"Islas del Destino", {"Orilla", "Cabaña junto al Mar", "Cueva", "Orilla", "Cabaña junto al Mar", "Orilla",
          "Cabaña junto al Mar", "Lugar Secreto", "Restos de la Isla", "Habitación de Sora", "Lugar Secreto",
@@ -90,42 +90,46 @@ function _OnFrame()
          "Mazmorras", "Capilla del Castillo", "Capilla del Castillo", "Capilla del Castillo", "Gran Salón",
          "Profundidades Oscuras", "Capilla del Castillo"}},
         [0x0F] = {"Bastión Hueco", {"Cascadas Ascendentes", "Puertas del Castillo", "Gran Cresta", "Alta Torre",
-        "Hall de Entrada", "Biblioteca", "Parada del Ascensor", "Nivel Base", "Canal Secreto", "Canal Secreto",
-        "Mazmorras", "Capilla del Castillo", "Capilla del Castillo", "Capilla del Castillo", "Gran Salón",
-        "Profundidades Oscuras", "Capilla del Castillo"}},
+         "Hall de Entrada", "Biblioteca", "Parada del Ascensor", "Nivel Base", "Canal Secreto", "Canal Secreto",
+         "Mazmorras", "Capilla del Castillo", "Capilla del Castillo", "Capilla del Castillo", "Gran Salón",
+         "Profundidades Oscuras", "Capilla del Castillo"}},
         [0x10] = {"Fin del Mundo", {"Puerta a la Oscuridad", "Dimensión Final", "Dimensión Final", "Dimensión Final",
          "Dimensión Final", "Dimensión Final", "Dimensión Final", "Dimensión Final", "Dimensión Final",
          "Dimensión Final", "Dimensión Final", "Dimensión Final", "Dimensión Final", "Esfera Oscura", "Gran Grieta",
-         "Terminus del Mundo", "Terminus del Mundo (Ciudad de Paso)", "Terminus del Mundo (Maravillas)",
-         "Terminus del Mundo (Coliseo del Olimpo)", "Terminus del Mundo (Selva Profunda)",
-         "Terminus del Mundo (Agrabah)", "Terminus del Mundo (Atlántica)", "Terminus del Mundo (Ciudad de Halloween)",
-         "Terminus del Mundo (Nunca Jamás)", "Terminus del Mundo (Bosque de los 100 Acres)",
-         "Terminus del Mundo (Bastión Hueco)", "Terrenos Malévolos", "Cráter Volcánico", "Mundos Vinculados",
+         "Mundo Terminus", "Mundo Terminus(Ciudad de Paso)", "Mundo Terminus(Maravillas)",
+         "Mundo Terminus(Coliseo del Olimpo)", "Mundo Terminus(Selva Profunda)",
+         "Mundo Terminus(Agrabah)", "Mundo Terminus(Atlántica)", "Mundo Terminus(Ciudad de Halloween)",
+         "Mundo Terminus(Nunca Jamás)", "Mundo Terminus(Bosque de los 100 Acres)",
+         "Mundo Terminus(Bastión Hueco)", "Terrenos Malévolos", "Cráter Volcánico", "Mundos Vinculados",
          "Descanso Final", "Regreso a Casa", "Isla en Ruinas", "Puerta Final", "El Vacío", "Cráter", "Regreso a Casa",
          "El Vacío", "El Vacío", "El Vacío"}}
     }
+end
+
+-- Función que se ejecuta en cada fotograma
+function _OnFrame()
+    if not PuedeEjecutar then return end
+
+    TiempoFotograma = TiempoFotograma + 1
+    if TiempoFotograma < GetHertz() then return end
+    TiempoFotograma = 0
+
+    local TextoDetalle = "Nv. " .. ReadByte(0x2DE9364) .. " (" .. Dificultad[ReadByte(0x2DFF78C) + 1] .. ")"
+    local IDMundo, IDSala = ReadByte(0x233FE94), ReadByte(0x233FE8C)
 
     TextoMundo, ListaDeSalas = ListaMundos[IDMundo] and ListaMundos[IDMundo][1] or "Mundo Desconocido", ListaMundos[IDMundo] and ListaMundos[IDMundo][2]
     local TextoEstado = "Ubicación desconocida"
     if ListaDeSalas and type(ListaDeSalas) == "table" and IDSala and IDSala + 1 <= #ListaDeSalas then
         TextoEstado = ListaMundos[IDMundo][1] .. " - " .. ListaDeSalas[IDSala + 1]
     end
-    if ListaDeSalas and type(ListaDeSalas) == "table" and IDSala and ListaDeSalas[IDSala + 1] then
-        TextoEstado = ListaMundos[IDMundo][1] .. " - " .. ListaDeSalas[IDSala + 1]
-    end
 
-    if IDMundo == 0xFF then
+    if IDMundo == MENU_PRINCIPAL then
         UpdateDetails("")
+        UpdateLImage("logo")
         UpdateState("Menú Principal")
     else
         UpdateDetails(TextoDetalle)
         UpdateState(TextoEstado)
-        UpdateSImage("logo")
-    end
-
-    if IDMundo == 0xFF then
-        UpdateLImage("logo")
-    else
         UpdateLImage(Mundos[IDMundo + 1] or "desconocido", TextoMundo)
         UpdateSImage("logo")
     end
