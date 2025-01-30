@@ -8562,3 +8562,7 @@ assets:
   method: copy
   source:
   - name: remastered/worldmap/wi/wp_tw.tzb/-180.dds
+- name: remastered/worldmap/route_tw_1.rtb/-35c30.dds
+  method: copy
+  source:
+  - name: remastered/worldmap/route_tw_1.rtb/-35c30.dds
