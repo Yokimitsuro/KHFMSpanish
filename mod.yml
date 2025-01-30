@@ -4,6 +4,10 @@ description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje es
 game: kh1
 dependencies: 
 assets:
+- name: scripts/KHFMDRP.lua
+  method: copy
+  source:
+  - name: KHFMDRP.lua
 - name: remastered/title/title.img/-131.dds
   method: copy
   platform: pc
