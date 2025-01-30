@@ -120,11 +120,13 @@ function _OnFrame()
     else
         UpdateDetails(TextoDetalle)
         UpdateState(TextoEstado)
+        UpdateSImage("logo")
     end
 
     if IDMundo == 0xFF then
         UpdateLImage("logo")
     else
         UpdateLImage(Mundos[IDMundo + 1] or "desconocido", TextoMundo)
+        UpdateSImage("logo")
     end
 end
