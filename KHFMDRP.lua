@@ -1,4 +1,3 @@
-require("discordRPC")
 -- Variables
 local ListaDeSalas
 local TextoMundo
@@ -109,7 +108,6 @@ end
 
 -- Función que se ejecuta en cada fotograma
 function _OnFrame()
-    print("UpdatePresence:", UpdatePresence)
     if not PuedeEjecutar then return end
 
     TiempoFotograma = TiempoFotograma + 1
@@ -126,19 +124,15 @@ function _OnFrame()
     end
 
     if IDMundo == MENU_PRINCIPAL then
-        TextoDetalle = ""
-        TextoEstado ="Menú Principal"
+        UpdateDetails("")
+        UpdateState("Menú Principal")
+        UpdateLImage("logo")
+        UpdateSImage("")
+    else
+        UpdateDetails(TextoDetalle)
+        UpdateState(TextoEstado)
+        UpdateLImage(Mundos[IDMundo + 1] or "desconocido", TextoMundo)
+        UpdateSImage("logo")
     end
-
-    UpdatePresence({
-        details = TextoDetalle,
-        state = TextoEstado,
-        largeImageKey = IDMundo == 0xFF and "logo" or (Mundos[IDMundo + 1] or "desconocido"),
-        smallImageKey = IDMundo == 0xFF and "" or "logo",
-        buttons = {
-            { label = "Ver guía", url = "https://www.khwiki.com" },
-            { label = "Discord", url = "https://discord.gg/kh" }
-        }
-    })
     
 end
