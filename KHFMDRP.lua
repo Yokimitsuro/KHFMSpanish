@@ -20,29 +20,6 @@ local function Inicializar()
     end
 end
 
-local function InitializeRPC(clientID)
-    local presence = {
-        state = "Playing Kingdom Hearts",
-        details = "In the main menu",
-        startTimestamp = os.time(),
-        largeImageKey = "khfm",
-        largeImageText = "Kingdom Hearts Final Mix",
-        smallImageKey = "kh",
-        smallImageText = "KH",
-        buttons = {
-            {label = "Join Discord", url = "https://discord.gg/yourserver"},
-            {label = "Watch Stream", url = "https://twitch.tv/yourchannel"}
-        }
-    }
-    local success, err = pcall(function()
-        DiscordRPC.UpdatePresence(presence)
-    end)
-
-    if not success then
-        ConsolePrint("Failed to update Discord presence: " .. err, 3)
-    end
-end
-
 -- Función de inicialización
 function _OnInit()
     ConsolePrint("===================================")
@@ -50,6 +27,8 @@ function _OnInit()
     ConsolePrint("======   KH:Spanish Mix ++   ======")
     ConsolePrint("===================================")
     print("")
+    local version = DiscordRPC.GetVersion()
+    ConsolePrint("Discord RPC version: " .. version)
 
     if ENGINE_VERSION < ENGINE_VERSION_MINIMA then
         ConsolePrint("Versión incorrecta de LuaEngine. ¡Usa al menos la versión 5!", 3)
