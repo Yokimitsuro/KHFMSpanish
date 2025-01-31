@@ -34,6 +34,12 @@ local function InitializeRPC(clientID)
             {label = "Redes sociales KHESPMIX++", url = "https://linktr.ee/khspmix"}
         }
     }
+    
+    -- Debugging prints
+    ConsolePrint("Updating Discord presence with the following data:")
+    ConsolePrint("State: " .. presence.state)
+    ConsolePrint("Details: " .. presence.details)
+    ConsolePrint("Buttons: " .. presence.buttons[1].label .. ", " .. presence.buttons[2].label)
 
     local success, err = pcall(function()
         DiscordRPC.UpdatePresence(presence)
