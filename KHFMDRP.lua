@@ -34,7 +34,13 @@ local function InitializeRPC(clientID)
             {label = "Watch Stream", url = "https://twitch.tv/yourchannel"}
         }
     }
-    DiscordRPC.UpdatePresence(presence)
+    local success, err = pcall(function()
+        DiscordRPC.UpdatePresence(presence)
+    end)
+
+    if not success then
+        ConsolePrint("Failed to update Discord presence: " .. err, 3)
+    end
 end
 
 -- Función de inicialización
