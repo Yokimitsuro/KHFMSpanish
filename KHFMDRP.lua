@@ -27,8 +27,6 @@ function _OnInit()
     ConsolePrint("======   KH:Spanish Mix ++   ======")
     ConsolePrint("===================================")
     print("")
-    local version = DiscordRPC.GetVersion()
-    ConsolePrint("Discord RPC version: " .. version)
 
     if ENGINE_VERSION < ENGINE_VERSION_MINIMA then
         ConsolePrint("Versión incorrecta de LuaEngine. ¡Usa al menos la versión 5!", 3)
