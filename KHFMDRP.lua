@@ -108,7 +108,7 @@ end
 
 -- Función que se ejecuta en cada fotograma
 function _OnFrame()
-    ConsolePrint("UpdatePresence:", UpdatePresence)
+    print("UpdatePresence:", UpdatePresence)
     if not PuedeEjecutar then return end
 
     TiempoFotograma = TiempoFotograma + 1
