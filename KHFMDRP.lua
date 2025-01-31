@@ -20,6 +20,30 @@ local function Inicializar()
     end
 end
 
+local function InitializeRPC(clientID)
+    local presence = {
+        state = "Playing Kingdom Hearts",
+        details = "In the main menu",
+        startTimestamp = os.time(),
+        largeImageKey = "khfm",
+        largeImageText = "Kingdom Hearts Final Mix",
+        smallImageKey = "kh",
+        smallImageText = "KH",
+        buttons = {
+            {label = "Join Discord", url = "https://discord.gg/yourserver"},
+            {label = "Watch Stream", url = "https://twitch.tv/yourchannel"}
+        }
+    }
+
+    local success, err = pcall(function()
+        DiscordRPC.UpdatePresence(presence)
+    end)
+
+    if not success then
+        ConsolePrint("Failed to update Discord presence: " .. err, 3)
+    end
+end
+
 -- Función de inicialización
 function _OnInit()
     ConsolePrint("===================================")
@@ -128,7 +152,6 @@ function _OnFrame()
         UpdateState("Menú Principal")
         UpdateLImage("logo")
         UpdateSImage("")
-        Update
     else
         UpdateDetails(TextoDetalle)
         UpdateState(TextoEstado)
