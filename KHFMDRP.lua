@@ -22,16 +22,16 @@ end
 
 local function InitializeRPC(clientID)
     local presence = {
-        state = "Playing Kingdom Hearts",
-        details = "In the main menu",
+        state = "Jugando Kingdom Hearts Final Mix",
+        details = "Menú Principal",
         startTimestamp = os.time(),
         largeImageKey = "khfm",
         largeImageText = "Kingdom Hearts Final Mix",
         smallImageKey = "kh",
         smallImageText = "KH",
         buttons = {
-            {label = "Join Discord", url = "https://discord.gg/yourserver"},
-            {label = "Watch Stream", url = "https://twitch.tv/yourchannel"}
+            {label = "Mod KHESPMIX++", url = "https://www.nexusmods.com/kingdomheartsfinalmix/mods/162"},
+            {label = "Redes sociales KHESPMIX++", url = "https://linktr.ee/khspmix"}
         }
     }
 
