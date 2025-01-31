@@ -1,6 +1,3 @@
--- Require the Discord RPC library
-local DiscordRPC = require("discordRPC")
-
 -- Variables
 local ListaDeSalas
 local TextoMundo
@@ -13,35 +10,6 @@ local ENGINE_TYPE_VALIDO = "BACKEND"
 local ENGINE_VERSION_MINIMA = 5
 local MENU_PRINCIPAL = 0xFF
 
-local function InitializeRPCLocal(clientID)
-    local presence = {
-        state = "Jugando Kingdom Hearts Final Mix",
-        details = "Menú Principal",
-        startTimestamp = os.time(),
-        largeImageKey = "khfm",
-        largeImageText = "Kingdom Hearts Final Mix",
-        smallImageKey = "kh",
-        smallImageText = "KH",
-        buttons = {
-            {label = "Mod KHESPMIX++", url = "https://www.nexusmods.com/kingdomheartsfinalmix/mods/162"},
-            {label = "Redes sociales KHESPMIX++", url = "https://linktr.ee/khspmix"}
-        }
-    }
-
-    -- Debugging prints
-    ConsolePrint("Updating Discord presence with the following data:")
-    ConsolePrint("State: " .. presence.state)
-    ConsolePrint("Details: " .. presence.details)
-    ConsolePrint("Buttons: " .. presence.buttons[1].label .. ", " .. presence.buttons[2].label)
-
-    local success, err = pcall(function()
-        DiscordRPC.UpdatePresence(presence)
-    end)
-
-    if not success then
-        ConsolePrint("Failed to update Discord presence: " .. err, 3)
-    end
-end
 -- Inicializa el script
 local function Inicializar()
     if GAME_ID == GAME_ID_VALIDO and ENGINE_TYPE == ENGINE_TYPE_VALIDO then
