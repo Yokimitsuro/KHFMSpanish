@@ -1,3 +1,6 @@
+-- Require the Discord RPC library
+local DiscordRPC = require("discordRPC")
+
 -- Variables
 local ListaDeSalas
 local TextoMundo
