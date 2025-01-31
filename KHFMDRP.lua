@@ -124,13 +124,19 @@ function _OnFrame()
     end
 
     if IDMundo == MENU_PRINCIPAL then
-        UpdateDetails("")
-        UpdateLImage("logo")
-        UpdateState("Menú Principal")
-    else
-        UpdateDetails(TextoDetalle)
-        UpdateState(TextoEstado)
-        UpdateLImage(Mundos[IDMundo + 1] or "desconocido", TextoMundo)
-        UpdateSImage("logo")
+        TextoDetalle = ""
+        TextoEstado ="Menú Principal"
     end
+
+    UpdatePresence({
+        details = TextoDetalle,
+        state = TextoEstado,
+        largeImageKey = IDMundo == 0xFF and "logo" or (Mundos[IDMundo + 1] or "desconocido"),
+        smallImageKey = IDMundo == 0xFF and "" or "logo",
+        buttons = {
+            { label = "Ver guía", url = "https://www.khwiki.com" },
+            { label = "Discord", url = "https://discord.gg/kh" }
+        }
+    })
+    
 end
