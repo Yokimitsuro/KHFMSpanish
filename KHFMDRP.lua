@@ -1,3 +1,4 @@
+require("discordRPC")
 -- Variables
 local ListaDeSalas
 local TextoMundo
