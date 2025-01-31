@@ -13,7 +13,7 @@ local MENU_PRINCIPAL = 0xFF
 -- Inicializa el script
 local function Inicializar()
     if GAME_ID == GAME_ID_VALIDO and ENGINE_TYPE == ENGINE_TYPE_VALIDO then
-        InitializeRPCLocal("1334277597416128513")
+        InitializeRPC("1334277597416128513")
     else
         ConsolePrint("Juego inválido. Este script solo funciona con KHFM PC (versión global).", 3)
         PuedeEjecutar = false
