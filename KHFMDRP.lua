@@ -10,16 +10,6 @@ local ENGINE_TYPE_VALIDO = "BACKEND"
 local ENGINE_VERSION_MINIMA = 5
 local MENU_PRINCIPAL = 0xFF
 
--- Inicializa el script
-local function Inicializar()
-    if GAME_ID == GAME_ID_VALIDO and ENGINE_TYPE == ENGINE_TYPE_VALIDO then
-        InitializeRPCLocal("1334277597416128513")
-    else
-        ConsolePrint("Juego inválido. Este script solo funciona con KHFM PC (versión global).", 3)
-        PuedeEjecutar = false
-    end
-end
-
 local function InitializeRPCLocal(clientID)
     local presence = {
         state = "Jugando Kingdom Hearts Final Mix",
@@ -47,6 +37,15 @@ local function InitializeRPCLocal(clientID)
 
     if not success then
         ConsolePrint("Failed to update Discord presence: " .. err, 3)
+    end
+end
+-- Inicializa el script
+local function Inicializar()
+    if GAME_ID == GAME_ID_VALIDO and ENGINE_TYPE == ENGINE_TYPE_VALIDO then
+        InitializeRPCLocal("1334277597416128513")
+    else
+        ConsolePrint("Juego inválido. Este script solo funciona con KHFM PC (versión global).", 3)
+        PuedeEjecutar = false
     end
 end
 
