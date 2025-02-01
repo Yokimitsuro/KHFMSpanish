@@ -8566,3 +8566,47 @@ assets:
   method: copy
   source:
   - name: remastered/worldmap/route_tw_1.rtb/-35c30.dds
+- name: remastered/xa_ex_4010.mdls/hc00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at00.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at01.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at02.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at03.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at04.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at05.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00at06.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da00.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da01.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da02.win32.scd
+- name: remastered/xa_ex_4010.mdls/hc00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4010.mdls/hc00da03.win32.scd
