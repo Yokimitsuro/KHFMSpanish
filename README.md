@@ -90,3 +90,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Ursula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 -  **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
 -  **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
+
+## Musica
+
+- **Menu principal: ** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
