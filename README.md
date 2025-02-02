@@ -22,8 +22,8 @@
 - ✔️ 100% Castillo Disney.
 - 🕒 85% Ciudad de Paso.
 - 🕒 25% País de las Maravillas.
-- 🕒 5% Coliseo.
-- 🕒 2% Selva Profunda.
+- 🕒 60% Coliseo.
+- 🕒 80% Selva Profunda.
 - ❌ 0% Bosque de los 100 Acres.
 - ❌ 0% Agrabah.
 - ❌ 0% Monstruo.
