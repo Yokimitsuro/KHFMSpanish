@@ -8610,7 +8610,7 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_4010.mdls/hc00da03.win32.scd
-- name: remastered/amusic/music110.bgm/music110.win32.scd
+- name: remastered/amusic/music110.dat/music110.win32.scd
   method: copy
   source:
-  - name: remastered/amusic/music110.bgm/music110.win32.scd
+  - name: remastered/amusic/music110.dat/music110.win32.scd
