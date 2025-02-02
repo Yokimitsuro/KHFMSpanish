@@ -76,6 +76,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 ## 🎙️ Actores de doblaje
 
 - **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/)
+- **Goofy:** [Sedka](https://www.instagram.com/sedka_/?hl=es)
 - **Riku:** [Mikel Sanchez](https://www.instagram.com/grixmistery/)
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
@@ -88,9 +89,11 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Floatsam:** [Borja](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ursula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
--  **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
--  **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
+- **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
+- **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
+- **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
+- **Alicia, Barrel:** [Cati Ramis](https://www.instagram.com/artby.cati)
 
 ## Musica
 
-- **Menu principal: ** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
+- **Menu principal:** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
