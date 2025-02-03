@@ -8638,3 +8638,203 @@ assets:
   method: copy
   source:
   - name: remastered/ew00_06.img/-a3501.dds
+- name: remastered/xa_ex_3000.mdls/sp00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at00.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at01.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at02.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at03.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at04.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at05.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at06.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00at07.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00da00.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00da01.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00da02.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00da03.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00da04.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00da05.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex00.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex01.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex02.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex03.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex04.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex05.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex06.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex07.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex08.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex09.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex10.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex11.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex12.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex13.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex14.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex14.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex15.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex15.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex16.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex16.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex17.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex17.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex18.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex18.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex19.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex19.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex20.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex20.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex21.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex21.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex22.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex22.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex23.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex23.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex24.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex24.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex25.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex25.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex26.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex26.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex27.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex27.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex28.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex28.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex29.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex29.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex30.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex30.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex31.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex31.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex32.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex32.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex33.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex33.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex34.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex34.win32.scd
+- name: remastered/xa_ex_3000.mdls/sp00ex35.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_3000.mdls/sp00ex35.win32.scd
