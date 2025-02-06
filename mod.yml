@@ -8838,3 +8838,27 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_3000.mdls/sp00ex35.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00at00.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00da00.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex00.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex01.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex02.win32.scd
+- name: remastered/xa_aw_1010.mdls/qh00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_aw_1010.mdls/qh00ex03.win32.scd
