@@ -8862,3 +8862,71 @@ assets:
   method: copy
   source:
   - name: remastered/xa_aw_1010.mdls/qh00ex03.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at00.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at01.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at02.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at03.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at04.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at05.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at06.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at07.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00at08.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00da00.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00da01.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00da02.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00da03.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00da04.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00da05.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00ex00.win32.scd
+- name: remastered/xa_he_1010.mdls/ha00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_he_1010.mdls/ha00ex01.win32.scd
