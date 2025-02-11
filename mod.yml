@@ -8930,3 +8930,43 @@ assets:
   method: copy
   source:
   - name: remastered/xa_he_1010.mdls/ha00ex01.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at00.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at01.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at02.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at03.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at04.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00at05.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da00.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da01.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da02.win32.scd
+- name: remastered/xa_ex_1150.mdls/ku00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1150.mdls/ku00da03.win32.scd
