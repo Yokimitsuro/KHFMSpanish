@@ -8930,3 +8930,19 @@ assets:
   method: copy
   source:
   - name: remastered/xa_he_1010.mdls/ha00ex01.win32.scd
+- name: remastered/he01.ard/-107040.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-107040.dds
+- name: remastered/he01.ard/-107e80.dds
+  method: copy
+  source:
+  - name: remastered/he01.ard/-107e80.dds
+- name: remastered/he02.ard/-9cdc0.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-9cdc0.dds
+- name: remastered/he02.ard/-9dc00.dds
+  method: copy
+  source:
+  - name: remastered/he02.ard/-9dc00.dds
