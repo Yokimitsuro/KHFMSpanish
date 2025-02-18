@@ -93,6 +93,8 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
 - **Alicia, Barrel:** [Cati Ramis](https://www.instagram.com/artby.cati)
+- **Pinocho, Lock:** [Evama](https://www.youtube.com/@Evama2.0)
+- **Mushu:** [Eloi Ortega](https://www.instagram.com/lexioltg/)
 
 ## Musica
 
