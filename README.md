@@ -41,7 +41,7 @@
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
-## ⚙️ Instrucciones (KH PC Patch Manager, método antiguo compatible con Steam):
+## ⚙️ Instrucciones (KH PC Patch Manager, método antiguo):
 
 1. Descarga el [mod](#).
 2. Descomprime el archivo en una carpeta nueva.
