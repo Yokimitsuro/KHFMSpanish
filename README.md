@@ -20,15 +20,15 @@
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
-- 🕒 90% Ciudad de Paso.
-- 🕒 99% País de las Maravillas.
-- 🕒 85% Coliseo.
-- 🕒 80% Selva Profunda.
+- 🕒 95% Ciudad de Paso.
+- ✔️ 100% País de las Maravillas.
+- ✔️ 100% Coliseo.
+- 🕒 95% Selva Profunda.
 - ❌ 0% Bosque de los 100 Acres.
-- ❌ 0% Agrabah.
-- ❌ 0% Monstruo.
+- 🕒 25% Agrabah.
+- 🕒 15% Monstruo.
 - ❌ 0% Ciudad de Halloween.
-- ❌ 0% Atlántica.
+- 🕒 10% Atlántica.
 - ❌ 0% País de Nunca Jamás.
 - ❌ 0% Bastión Hueco.
 - ❌ 0% Fin del Mundo.
