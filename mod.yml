@@ -9082,3 +9082,19 @@ assets:
   method: copy
   source:
   - name: remastered/xa_nm_1030.mdls/ro00ex00.win32.scd
+- name: remastered/xa_ex_2170.mdls/js00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_2170.mdls/js00ex00.win32.scd
+- name: remastered/xa_ex_2170.mdls/js00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_2170.mdls/js00ex01.win32.scd
+- name: remastered/xa_ex_2172.mdls/js00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_2172.mdls/js00ex00.win32.scd
+- name: remastered/xa_ex_2172.mdls/js00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_2172.mdls/js00ex01.win32.scd
