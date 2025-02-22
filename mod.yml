@@ -9054,3 +9054,31 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/pp/pp_000.dpx/SP_pp_000_dpx137f0.dds
+- name: remastered/xa_nm_1030.mdls/ro00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00at00.win32.scd
+- name: remastered/xa_nm_1030.mdls/ro00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00at01.win32.scd
+- name: remastered/xa_nm_1030.mdls/ro00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00da00.win32.scd
+- name: remastered/xa_nm_1030.mdls/ro00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00da01.win32.scd
+- name: remastered/xa_nm_1030.mdls/ro00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00da02.win32.scd
+- name: remastered/xa_nm_1030.mdls/ro00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00da03.win32.scd
+- name: remastered/xa_nm_1030.mdls/ro00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1030.mdls/ro00ex00.win32.scd
