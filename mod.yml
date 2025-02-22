@@ -8970,3 +8970,87 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1150.mdls/ku00da03.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00at00.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00at01.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00da00.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00da01.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00da02.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00da03.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00ex00.win32.scd
+- name: remastered/xa_lm_3020.mdls/jt00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3020.mdls/jt00ex01.win32.scd
+- name: remastered/eveffect/al/al_000.dpx/-1c370.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/al/al_000.dpx/-1c370.dds
+- name: remastered/eveffect/al/al_000.dpx/SP_al_000_dpx1c370.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/al/al_000.dpx/SP_al_000_dpx1c370.dds
+- name: remastered/eveffect/ew/ew_000.dpx/-1dd0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/ew/ew_000.dpx/-1dd0.dds
+- name: remastered/eveffect/ew/ew_000.dpx/SP_ew_000_dpx1dd0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/ew/ew_000.dpx/SP_ew_000_dpx1dd0.dds
+- name: remastered/eveffect/nm/nm_000.dpx/-1060.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/nm/nm_000.dpx/-1060.dds
+- name: remastered/eveffect/pc/pc_000.dpx/-26ad0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/pc/pc_000.dpx/-26ad0.dds
+- name: remastered/eveffect/pc/pc_000.dpx/SP_pc_000_dpx26ad0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/pc/pc_000.dpx/SP_pc_000_dpx26ad0.dds
+- name: remastered/eveffect/pi/pi_000.dpx/-5bd0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/pi/pi_000.dpx/-5bd0.dds
+- name: remastered/eveffect/pi/pi_000.dpx/-9ff0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/pi/pi_000.dpx/-9ff0.dds
+- name: remastered/eveffect/po/po_001.dpx/-1c80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/po/po_001.dpx/-1c80.dds
+- name: remastered/eveffect/po/po_001.dpx/SP_po_001_dpx1c80.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/po/po_001.dpx/SP_po_001_dpx1c80.dds
+- name: remastered/eveffect/pp/pp_000.dpx/-137f0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/pp/pp_000.dpx/-137f0.dds
+- name: remastered/eveffect/pp/pp_000.dpx/SP_pp_000_dpx137f0.dds
+  method: copy
+  source:
+  - name: remastered/eveffect/pp/pp_000.dpx/SP_pp_000_dpx137f0.dds
