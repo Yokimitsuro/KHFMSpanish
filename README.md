@@ -110,6 +110,8 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
 - **Tiger, Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 - **Tarzan, Oogie, Phil:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
+- **Jane, Tidus:** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
+- **Daisy, Sally:** [Julia Gallego](https://www.instagram.com/juliagallegovoz?igsh=YW1yMDg3OHNydW8y&utm_source=qr)
 
 ### Música
 
