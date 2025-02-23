@@ -68,11 +68,14 @@ Estamos trabajando en doblar KHFM al completo.
 
 Si encuentras algún error, ¡no dudes en comentármelo!
 
-## 🎨 Dirección | Programación | Edición
+## 🎬​ Dirección | Programación | Edición
 
 - **Dirección:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
 - **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
 
+## 🎨 Arte
+- **Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
+  
 ## 🎙️ Actores de doblaje
 
 - **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/)
@@ -101,6 +104,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Gepeto:** [Sergio Izaguirre](https://www.youtube.com/channel/UC4eZKlYzTuBGCbCq_JlT-2w)
 - **Pepito, Iago:** [LeM](https://www.tiktok.com/@manuelmc555?_t=ZN-8u9p3LjLy1W&_r=1)
 - **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
+- **Tiger, Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 
 ## Musica
 
