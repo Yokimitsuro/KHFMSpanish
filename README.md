@@ -80,6 +80,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 - **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/)
 - **Goofy:** [Sedka](https://www.instagram.com/sedka_/?hl=es)
+- **Donald:** [Yakko](#)
 - **Riku:** [Mikel Sanchez](https://www.instagram.com/grixmistery/)
 - **Kairi:** [Yuki Aisaka](https://linktr.ee/yukiaisaka)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
