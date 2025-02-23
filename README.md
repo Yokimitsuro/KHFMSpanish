@@ -70,8 +70,8 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ## 🎨 Dirección | Programación | Edición
 
-- [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
-- [Yokimitsuro](https://x.com/Yokimitsuro)
+- **Dirección:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
+- **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
 
 ## 🎙️ Actores de doblaje
 
