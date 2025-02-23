@@ -95,12 +95,12 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Alicia, Barrel:** [Cati Ramis](https://www.instagram.com/artby.cati)
 - **Pinocho, Lock:** [Evama](https://www.youtube.com/@Evama2.0)
 - **Mushu:** [Eloi Ortega](https://www.instagram.com/lexioltg/)
-- **Mickey, Piglet, Leon** [Minerva](https://www.youtube.com/@FENIXDUBS)
-- **Wendy, Jasmin** [Udi Angulo](https://www.instagram.com/cl4.udi.4?igsh=MWxtdzdhZDN0cGc5ag==)
-- **Jack Skellington** [Pedro Durán](https://www.tiktok.com/@pedroduranvoz?_t=ZN-8u9n7Sm8OwM&_r=1)
-- **Gepeto** [Sergio Izaguirre](https://www.youtube.com/channel/UC4eZKlYzTuBGCbCq_JlT-2w)
-- **Pepito, Iago** [LeM](https://www.tiktok.com/@manuelmc555?_t=ZN-8u9p3LjLy1W&_r=1)
-- **Shock** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
+- **Mickey, Piglet, Leon:** [Minerva](https://www.youtube.com/@FENIXDUBS)
+- **Wendy, Jasmin:** [Udi Angulo](https://www.instagram.com/cl4.udi.4?igsh=MWxtdzdhZDN0cGc5ag==)
+- **Jack Skellington:** [Pedro Durán](https://www.tiktok.com/@pedroduranvoz?_t=ZN-8u9n7Sm8OwM&_r=1)
+- **Gepeto:** [Sergio Izaguirre](https://www.youtube.com/channel/UC4eZKlYzTuBGCbCq_JlT-2w)
+- **Pepito, Iago:** [LeM](https://www.tiktok.com/@manuelmc555?_t=ZN-8u9p3LjLy1W&_r=1)
+- **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
 
 ## Musica
 
