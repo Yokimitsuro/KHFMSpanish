@@ -109,11 +109,12 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Pepito, Iago:** [LeM](https://www.tiktok.com/@manuelmc555?_t=ZN-8u9p3LjLy1W&_r=1)
 - **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
 - **Tiger, Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
+- **Tarzan, Oogie, Phil:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 
-### Musica
+### Música
 
 - **Menu principal:** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
 
-### Videos
+### Otras aportaciones
 
-- **Edición:** [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
+- [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
