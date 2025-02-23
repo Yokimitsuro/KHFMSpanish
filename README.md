@@ -91,7 +91,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Madre de sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
 - **Floatsam:** [Borja](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
 - **Hercules:** [Adri](https://x.com/adriiiits)
-- **Ursula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
+- **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 - **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
 - **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
