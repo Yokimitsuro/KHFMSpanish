@@ -25,10 +25,10 @@
 - ✔️ 100% Coliseo.
 - 🕒 95% Selva Profunda.
 - ❌ 0% Bosque de los 100 Acres.
-- 🕒 25% Agrabah.
-- 🕒 15% Monstruo.
-- ❌ 0% Ciudad de Halloween.
-- 🕒 10% Atlántica.
+- 🕒 50% Agrabah.
+- 🕒 50% Monstruo.
+- 🕒 25% Ciudad de Halloween.
+- 🕒 25% Atlántica.
 - ❌ 0% País de Nunca Jamás.
 - ❌ 0% Bastión Hueco.
 - ❌ 0% Fin del Mundo.
@@ -110,6 +110,9 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
 - **Tiger, Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 - **Tarzan, Oogie, Phil:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
+- **Jane, Tidus:** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
+- **Daisy, Sally:** [Julia Gallego](https://www.instagram.com/juliagallegovoz?igsh=YW1yMDg3OHNydW8y&utm_source=qr)
+- **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 
 ### Música
 
