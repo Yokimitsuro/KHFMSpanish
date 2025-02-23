@@ -2,13 +2,13 @@
 
 ![PORTADA jpg](https://github.com/user-attachments/assets/cac71017-f182-4234-81e3-69c40aa61653)
 
-## 🌐 URLs:
+### 🌐 URLs:
 
 [**Redes sociales**](http://linktr.ee/khspmix)
 
 [**NexusMod**](#)
 
-## 🎮 Descripción:
+### 🎮 Descripción:
 
 ¿Tienes ganas de volver a jugar *Kingdom Hearts* pero escuchando todo en tu idioma? ¡Prueba este mod! Ahora podrás entender y disfrutar lo que dicen tus personajes favoritos sin necesidad de saber otro idioma.
 
@@ -33,7 +33,8 @@
 - ❌ 0% Bastión Hueco.
 - ❌ 0% Fin del Mundo.
 
-## ⚙️ Instrucciones (OpenKH, método preferido):
+## ⚙️ Instrucciones de instalación
+### OpenKH(método preferido):
 
 1. Abre `OpenKh.Tools.ModsManager.exe`. Puedes descargarlo desde [aquí](https://github.com/OpenKH/OpenKh/releases/download/latest/openkh.zip).
 2. Si es la primera vez que lo usas, configúralo para que detecte tu instalación del juego, asegúrate de que tenga Panacea instalado, Lua Backend instalado y configurado, y que *Kingdom Hearts* esté extraído.
@@ -41,7 +42,7 @@
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
-## ⚙️ Instrucciones (KH PC Patch Manager, método antiguo):
+### ⚙️ KH PC Patch Manager(método antiguo):
 
 1. Descarga el [mod](#).
 2. Descomprime el archivo en una carpeta nueva.
@@ -51,7 +52,7 @@
 6. Espera hasta que diga "Patch applied!". Finalmente, cierra el programa.
 7. ¡Disfruta!
 
-## 🎵 Instrucciones videos (opcionales):
+### 🎞️ Instrucciones videos (opcionales):
 
 - [**Canciones en Español**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
 - [**Canciones en Inglés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
@@ -68,15 +69,17 @@ Estamos trabajando en doblar KHFM al completo.
 
 Si encuentras algún error, ¡no dudes en comentármelo!
 
-## 🎬​ Dirección | Programación | Edición
+## CREDITOS
+
+### 🎬​ Dirección | Programación | Edición
 
 - **Dirección:** [Santos Castillo (PlasmaWAV)](https://www.instagram.com/plasmawav/)
 - **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
 
-## 🎨 Arte
+### 🎨 Arte
 - **Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
   
-## 🎙️ Actores de doblaje
+### 🎙️ Actores de doblaje
 
 - **Sora:** [Alba Banda](https://www.instagram.com/_albabn_/)
 - **Goofy:** [Sedka](https://www.instagram.com/sedka_/?hl=es)
@@ -107,10 +110,10 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Shock:** [Aleshuki](https://www.tiktok.com/@fukikae_?lang=es)
 - **Tiger, Sebastian:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
 
-## Musica
+### Musica
 
 - **Menu principal:** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
 
-## Videos
+### Videos
 
 - **Edición:** [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
