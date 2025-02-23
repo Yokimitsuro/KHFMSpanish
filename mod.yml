@@ -9098,3 +9098,15 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_2172.mdls/js00ex01.win32.scd
+- name: remastered/xa_pi_1000.mdls/pc00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pi_1000.mdls/pc00ex00.win32.scd
+- name: remastered/xa_pi_1000.mdls/pc00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pi_1000.mdls/pc00ex01.win32.scd
+- name: remastered/xa_pi_1000.mdls/pc00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_pi_1000.mdls/pc00ex02.win32.scd
