@@ -9110,7 +9110,3 @@ assets:
   method: copy
   source:
   - name: remastered/xa_pi_1000.mdls/pc00ex02.win32.scd
-- name: remastered/di01.ard/SP_di01_ard3e8.binl
-  method: copy
-  source:
-  - name: remastered/di01.ard/SP_di01_ard3e8.binl
