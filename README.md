@@ -113,6 +113,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Jane, Tidus:** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
 - **Daisy, Sally:** [Julia Gallego](https://www.instagram.com/juliagallegovoz?igsh=YW1yMDg3OHNydW8y&utm_source=qr)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
+- **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
 
 ### Música
 
