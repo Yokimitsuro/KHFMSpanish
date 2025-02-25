@@ -25,7 +25,7 @@
 - ✔️ 100% Coliseo.
 - 🕒 95% Selva Profunda.
 - ❌ 0% Bosque de los 100 Acres.
-- 🕒 750% Agrabah.
+- 🕒 80% Agrabah.
 - 🕒 50% Monstruo.
 - 🕒 35% Ciudad de Halloween.
 - 🕒 50% Atlántica.
