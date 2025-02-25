@@ -22,7 +22,7 @@
 - ✔️ 100% Castillo Disney.
 - 🕒 95% Ciudad de Paso.
 - ✔️ 100% País de las Maravillas.
-- ✔️ 100% Coliseo.
+- 🕒 95% Coliseo.
 - ✔️ 100% Selva Profunda.
 - ❌ 0% Bosque de los 100 Acres.
 - 🕒 80% Agrabah.
