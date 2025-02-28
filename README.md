@@ -114,6 +114,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Daisy, Sally:** [Julia Gallego](https://www.instagram.com/juliagallegovoz?igsh=YW1yMDg3OHNydW8y&utm_source=qr)
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
+- **Clayton:** [Angel Piñero (Gelote30)](https://www.instagram.com/gelote30?igsh=MTVnZmRtaXdoM3NmNg==)
 
 ### Música
 
