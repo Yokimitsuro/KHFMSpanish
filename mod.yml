@@ -2,7 +2,7 @@ title: KHFM - Voces en Castellano
 originalAuthor: Spanish Mix++
 description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por Spanish Mix++. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
 game: kh1
-dependencies:
+dependencies: 
 assets:
 - name: scripts/KHFMDRP.lua
   method: copy
@@ -9110,3 +9110,31 @@ assets:
   method: copy
   source:
   - name: remastered/xa_pi_1000.mdls/pc00ex02.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00at00.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00at01.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00da00.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00da01.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00da02.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00ex00.win32.scd
+- name: remastered/xa_nm_1040.mdls/so00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_nm_1040.mdls/so00ex01.win32.scd
