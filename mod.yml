@@ -9138,3 +9138,75 @@ assets:
   method: copy
   source:
   - name: remastered/xa_nm_1040.mdls/so00ex01.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at02.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at03_1.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at03_1.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at04.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at05.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at08.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at11.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00at13.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da00.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da01.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da02.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da04.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da05.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00da06.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00ex00.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00ex03.win32.scd
+- name: remastered/xa_tz_3010.mdls/cl00ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_tz_3010.mdls/cl00ex07.win32.scd
