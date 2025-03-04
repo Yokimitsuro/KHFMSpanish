@@ -9210,3 +9210,27 @@ assets:
   method: copy
   source:
   - name: remastered/xa_tz_3010.mdls/cl00ex07.win32.scd
+- name: remastered/xa_al_1020.mdls/ia00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_1020.mdls/ia00ex00.win32.scd
+- name: remastered/xa_al_1020.mdls/ia00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_1020.mdls/ia00ex01.win32.scd
+- name: remastered/xa_al_1020.mdls/ia00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_1020.mdls/ia00ex02.win32.scd
+- name: remastered/xa_al_1020.mdls/ia00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_1020.mdls/ia00ex03.win32.scd
+- name: remastered/xa_al_1020.mdls/ia00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_1020.mdls/ia00ex04.win32.scd
+- name: remastered/xa_al_1020.mdls/ia00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_1020.mdls/ia00ex05.win32.scd
