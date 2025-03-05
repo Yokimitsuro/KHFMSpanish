@@ -9234,3 +9234,19 @@ assets:
   method: copy
   source:
   - name: remastered/xa_al_1020.mdls/ia00ex05.win32.scd
+- name: remastered/xa_ex_4060.mdls/mu00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4060.mdls/mu00ex00.win32.scd
+- name: remastered/xa_ex_4060.mdls/mu00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4060.mdls/mu00ex01.win32.scd
+- name: remastered/xs_mushu.dat/mu00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_mushu.dat/mu00ex00.win32.scd
+- name: remastered/xs_mushu.dat/mu00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_mushu.dat/mu00ex01.win32.scd
