@@ -9250,3 +9250,83 @@ assets:
   method: copy
   source:
   - name: remastered/xs_mushu.dat/mu00ex01.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at00.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at01.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at02.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at03.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at04.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at05.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at06.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at07.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at0b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at0b.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at6a.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at6a.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01at6b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01at6b.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01da00.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01da01.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01da02.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01da03.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01ex00.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01ex01.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01ex02.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01ex03.win32.scd
+- name: remastered/xa_ex_1560.mdls/rk01ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1560.mdls/rk01ex04.win32.scd
