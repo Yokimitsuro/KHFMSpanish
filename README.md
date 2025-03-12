@@ -24,14 +24,14 @@
 - ✔️ 100% País de las Maravillas.
 - 🕒 95% Coliseo.
 - ✔️ 100% Selva Profunda.
-- ❌ 0% Bosque de los 100 Acres.
+- 🕒 15% Bosque de los 100 Acres.
 - 🕒 80% Agrabah.
-- 🕒 50% Monstruo.
-- 🕒 35% Ciudad de Halloween.
-- 🕒 50% Atlántica.
-- ❌ 0% País de Nunca Jamás.
-- ❌ 0% Bastión Hueco.
-- ❌ 0% Fin del Mundo.
+- 🕒 83% Monstruo.
+- 🕒 74% Ciudad de Halloween.
+- 🕒 53% Atlántica.
+- 🕒 28% País de Nunca Jamás.
+- 🕒 13% Bastión Hueco.
+- 🕒 4% Fin del Mundo.
 
 ## ⚙️ Instrucciones de instalación
 ### OpenKH(método preferido):
