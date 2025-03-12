@@ -9406,3 +9406,79 @@ assets:
   method: copy
   source:
   - name: remastered/xa_lm_1050.mdls/ur02ex00.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at03.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at04.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at05.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at08.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at09.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at11.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at13.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at14.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at14.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at15.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at15.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at18.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at18.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01at19.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01at19.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01da00.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01da01.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01da02.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01da03.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01da04.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01da05.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01ex03.win32.scd
+- name: remastered/xa_lm_3000.mdls/ur01ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_lm_3000.mdls/ur01ex04.win32.scd
