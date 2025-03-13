@@ -9474,3 +9474,7 @@ assets:
   method: copy
   source:
   - name: remastered/po.wdt/-54f0.dds
+- name: remastered/pp.wdt/-14ce0.dds
+  method: copy
+  source:
+  - name: remastered/pp.wdt/-14ce0.dds
