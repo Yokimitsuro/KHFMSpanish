@@ -9478,19 +9478,7 @@ assets:
   method: copy
   source:
   - name: remastered/pp.wdt/-14ce0.dds
-- name: remastered/eveffect/pp/pp_000.dpx/FR_pp_000_dpx137f0.dds
+- name: remastered/pc.wdt/-13cc0.dds
   method: copy
   source:
-  - name: remastered/eveffect/pp/pp_000.dpx/FR_pp_000_dpx137f0.dds
-- name: remastered/eveffect/pp/pp_000.dpx/GR_pp_000_dpx137f0.dds
-  method: copy
-  source:
-  - name: remastered/eveffect/pp/pp_000.dpx/GR_pp_000_dpx137f0.dds
-- name: remastered/eveffect/pp/pp_000.dpx/IT_pp_000_dpx137f0.dds
-  method: copy
-  source:
-  - name: remastered/eveffect/pp/pp_000.dpx/IT_pp_000_dpx137f0.dds
-- name: remastered/eveffect/pp/pp_000.dpx/UK_pp_000_dpx137f0.dds
-  method: copy
-  source:
-  - name: remastered/eveffect/pp/pp_000.dpx/UK_pp_000_dpx137f0.dds
+  - name: remastered/pc.wdt/-13cc0.dds
