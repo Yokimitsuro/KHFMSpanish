@@ -9490,3 +9490,7 @@ assets:
   method: copy
   source:
   - name: remastered/eveffect/ew/ew_000.dpx/-1dd0.png
+- name: remastered/nm00_01.img/-74904.dds
+  method: copy
+  source:
+  - name: remastered/nm00_01.img/-74904.dds
