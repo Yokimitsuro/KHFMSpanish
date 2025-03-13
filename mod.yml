@@ -9470,3 +9470,7 @@ assets:
   method: copy
   source:
   - name: remastered/pi.wdt/-ea30.dds
+- name: remastered/po.wdt/-54f0.dds
+  method: copy
+  source:
+  - name: remastered/po.wdt/-54f0.dds
