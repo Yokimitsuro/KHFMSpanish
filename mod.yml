@@ -9482,3 +9482,11 @@ assets:
   method: copy
   source:
   - name: remastered/pc.wdt/-13cc0.dds
+- name: remastered/ew.wdt/-113a0.dds
+  method: copy
+  source:
+  - name: remastered/ew.wdt/-113a0.dds
+- name: remastered/eveffect/ew/ew_000.dpx/-1dd0.png
+  method: copy
+  source:
+  - name: remastered/eveffect/ew/ew_000.dpx/-1dd0.png
