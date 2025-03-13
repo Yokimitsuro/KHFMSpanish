@@ -2,7 +2,7 @@ title: KHFM - Voces en Castellano
 originalAuthor: Spanish Mix++
 description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por Spanish Mix++. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
 game: kh1
-dependencies:
+dependencies: 
 assets:
 - name: scripts/KHFMDRP.lua
   method: copy
@@ -8514,7 +8514,6 @@ assets:
   method: copy
   source:
   - name: remastered/he00_05.img/-54500.dds
-
 - name: remastered/tz.wdt/-f7e0.dds
   method: copy
   source:
@@ -9467,3 +9466,7 @@ assets:
   method: copy
   source:
   - name: remastered/xa_lm_3000.mdls/ur01ex04.win32.scd
+- name: remastered/pi.wdt/-ea30.dds
+  method: copy
+  source:
+  - name: remastered/pi.wdt/-ea30.dds
