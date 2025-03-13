@@ -9494,3 +9494,7 @@ assets:
   method: copy
   source:
   - name: remastered/nm00_01.img/-74904.dds
+- name: remastered/nm.wdt/-c900.dds
+  method: copy
+  source:
+  - name: remastered/nm.wdt/-c900.dds
