@@ -33,7 +33,7 @@
 - 🕒 53% Atlántica.
 - 🕒 28% País de Nunca Jamás.
 - 🕒 37% Bastión Hueco.
-- 🕒 4% Fin del Mundo.
+- 🕒 28% Fin del Mundo.
 
 ## ⚙️ Instrucciones de instalación
 ### OpenKH(método preferido):
