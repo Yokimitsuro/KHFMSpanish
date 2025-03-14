@@ -18,6 +18,8 @@
 **📜 Todas las voces dobladas al español:**
 
 - ✔️ 100% Escenas prerenderizadas.
+- ✔️ 100% Texturas.
+- 🕒 52% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
 - 🕒 95% Ciudad de Paso.
@@ -30,7 +32,7 @@
 - 🕒 74% Ciudad de Halloween.
 - 🕒 53% Atlántica.
 - 🕒 28% País de Nunca Jamás.
-- 🕒 13% Bastión Hueco.
+- 🕒 37% Bastión Hueco.
 - 🕒 4% Fin del Mundo.
 
 ## ⚙️ Instrucciones de instalación
