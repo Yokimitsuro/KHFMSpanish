@@ -9582,3 +9582,95 @@ assets:
   method: copy
   source:
   - name: remastered/xa_tz_3020.mdls/cl00ex13.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at00.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at01.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at02.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at03.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at04.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at05.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at06.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at07.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at09.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at10.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at11.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at12.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at13.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at14.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at14.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00at8b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00at8b.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da00.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da01.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da02.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da03.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da04.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da05.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da06.win32.scd
+- name: remastered/xa_ex_1040.mdls/ry00da07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1040.mdls/ry00da07.win32.scd
