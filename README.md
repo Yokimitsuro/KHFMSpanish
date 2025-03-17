@@ -95,7 +95,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Garfio:** [Sasu](https://www.instagram.com/sasukudubs/)
 - **Jetsam, Hades, Finklstn:** [Santiago Rivas (Diane)](https://www.instagram.com/santiagorivaslocutor/)
 - **Madre de sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
-- **Floatsam:** [Borja](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
+- **Floatsam:** [Borja Hernández Gil](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 - **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
