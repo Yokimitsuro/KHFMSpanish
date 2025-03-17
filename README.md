@@ -19,7 +19,7 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 52% Batallas.
+- 🕒 60% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
 - 🕒 95% Ciudad de Paso.
