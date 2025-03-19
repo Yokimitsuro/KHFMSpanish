@@ -19,7 +19,7 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 60% Batallas.
+- 🕒 61% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
 - 🕒 95% Ciudad de Paso.
@@ -33,7 +33,7 @@
 - 🕒 53% Atlántica.
 - 🕒 28% País de Nunca Jamás.
 - 🕒 37% Bastión Hueco.
-- 🕒 28% Fin del Mundo.
+- 🕒 49% Fin del Mundo.
 
 ## ⚙️ Instrucciones de instalación
 ### OpenKH(método preferido):
