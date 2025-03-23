@@ -99,7 +99,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 - **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
-- **Ansem:** [Héctor Garrido (Ciganda)](https://www.youtube.com/@cigandadubs)
+- **Ansem:** [Carlos Garrido (MantequiTV)](https://www.instagram.com/carlosgarrido.doblaje/)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
 - **Alicia, Barrel:** [Cati Ramis](https://www.instagram.com/artby.cati)
 - **Pinocho, Lock:** [Evama](https://www.youtube.com/@Evama2.0)
