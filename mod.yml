@@ -9674,3 +9674,111 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1040.mdls/ry00da07.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00at00.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00at01.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00at02.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00at03.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00at04.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00at05.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex00.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex01.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex02.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex03.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex05.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex06.win32.scd
+- name: remastered/xa_ex_4040.mdls/ge00ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_4040.mdls/ge00ex07.win32.scd
+- name: remastered/xs_genie.dat/ge01at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01at00.win32.scd
+- name: remastered/xs_genie.dat/ge01ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ex03.win32.scd
+- name: remastered/xs_genie.dat/ge01ma01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma01.win32.scd
+- name: remastered/xs_genie.dat/ge01ma02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma02.win32.scd
+- name: remastered/xs_genie.dat/ge01ma03-2.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma03-2.win32.scd
+- name: remastered/xs_genie.dat/ge01ma04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma04.win32.scd
+- name: remastered/xs_genie.dat/ge01ma05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma05.win32.scd
+- name: remastered/xs_genie.dat/ge01ma06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma06.win32.scd
+- name: remastered/xs_genie.dat/ge01ma09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma09.win32.scd
+- name: remastered/xs_genie.dat/ge01ma10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma10.win32.scd
+- name: remastered/xs_genie.dat/ge01ma11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma11.win32.scd
+- name: remastered/xs_genie.dat/ge01ma12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma12.win32.scd
+- name: remastered/xs_genie.dat/ge01ma13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01ma13.win32.scd
+- name: remastered/xs_genie.dat/ge01mx14.win32.scd
+  method: copy
+  source:
+  - name: remastered/xs_genie.dat/ge01mx14.win32.scd
