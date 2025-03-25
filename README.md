@@ -26,8 +26,8 @@
 - ✔️ 100% País de las Maravillas.
 - 🕒 95% Coliseo.
 - ✔️ 100% Selva Profunda.
-- 🕒 15% Bosque de los 100 Acres.
-- 🕒 80% Agrabah.
+- 🕒 35% Bosque de los 100 Acres.
+- 🕒 89% Agrabah.
 - 🕒 83% Monstruo.
 - 🕒 74% Ciudad de Halloween.
 - 🕒 53% Atlántica.
@@ -117,6 +117,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
 - **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
 - **Clayton:** [Angel Piñero (Gelote30)](https://www.instagram.com/gelote30?igsh=MTVnZmRtaXdoM3NmNg==)
+- **Triton:** [Adri Rodríguez (adridibus)](https://www.instagram.com/adridibus_dub/)
 
 ### Música
 
