@@ -19,20 +19,20 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 61% Batallas.
+- 🕒 66% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
-- 🕒 95% Ciudad de Paso.
+- 🕒 99% Ciudad de Paso.
 - ✔️ 100% País de las Maravillas.
 - 🕒 95% Coliseo.
 - ✔️ 100% Selva Profunda.
-- 🕒 35% Bosque de los 100 Acres.
-- 🕒 89% Agrabah.
-- 🕒 83% Monstruo.
-- 🕒 74% Ciudad de Halloween.
-- 🕒 53% Atlántica.
+- 🕒 50% Bosque de los 100 Acres.
+- 🕒 97% Agrabah.
+- 🕒 84% Monstruo.
+- 🕒 80% Ciudad de Halloween.
+- 🕒 77% Atlántica.
 - 🕒 28% País de Nunca Jamás.
-- 🕒 37% Bastión Hueco.
+- 🕒 45% Bastión Hueco.
 - 🕒 49% Fin del Mundo.
 
 ## ⚙️ Instrucciones de instalación
