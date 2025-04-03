@@ -9782,3 +9782,7 @@ assets:
   method: copy
   source:
   - name: remastered/xs_genie.dat/ge01mx14.win32.scd
+- name: remastered/load_icon_a.tm2/40.dds
+  method: copy
+  source:
+  - name: remastered/load_icon_a.tm2/40.dds
