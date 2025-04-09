@@ -28,7 +28,7 @@
 - ✔️ 100% Selva Profunda.
 - 🕒 50% Bosque de los 100 Acres.
 - ✔️ 100% Agrabah.
-- 🕒 84% Monstruo.
+- 🕒 89% Monstruo.
 - 🕒 80% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
 - 🕒 31% País de Nunca Jamás.
