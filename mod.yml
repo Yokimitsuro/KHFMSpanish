@@ -9786,3 +9786,87 @@ assets:
   method: copy
   source:
   - name: remastered/load_icon_a.tm2/-40.dds
+- name: remastered/xa_al_3010.mdls/ja01da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01da00.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01da01.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ex00.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ex01.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ex02.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ex03.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ex04.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ex05.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma00.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma01.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma02.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma03.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma04.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma05.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma06.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma07.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma08.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma09.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma10.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma11.win32.scd
+- name: remastered/xa_al_3010.mdls/ja01ma12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_al_3010.mdls/ja01ma12.win32.scd
