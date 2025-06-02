@@ -1,6 +1,7 @@
 title: KH1SpanishMix
-originalAuthor: You
-description: Generated on Fri, 30 May 2025 16:08:28 GMT
+originalAuthor: Ecos del Doblaje
+description: Este mod cambia las voces de Kingdom Hearts Final Mix al doblaje español realizado por Ecos del Doblaje. IMPORTANTE!!! Para la experiencia completa, se tienen que cambiar las cinematicas; entrando en el enlace inferior "Mod source code", y una vez dentro buscamos "Releases", encontraremos los videos junto con las instrucciones para instalarlo todo bien.
+game: kh1
 dependencies: 
 assets:
 - name: remastered/al01.ard/SP_al01_ard3e8.binl
