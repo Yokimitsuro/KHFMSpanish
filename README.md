@@ -131,7 +131,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Tiger:** [Asancu](https://www.youtube.com/@Asancu)
 - **Barrel:** [Fran Mafé](https://x.com/SilveOfisialVA)
 - **Bestia:** [Luisma McFly](https://www.instagram.com/luismamcfly/?hl=es)
-- **Pooh:** Anónimo.
+- **Genio, Conejo, Pooh:** [aru_eru_x_x](https://youtube.com/@aru_eru_x_x?si=OyqZ8bdDNcDxpDON)
 
 ### 🎶 Música
 
