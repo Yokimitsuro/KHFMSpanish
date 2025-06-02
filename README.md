@@ -4,7 +4,7 @@
 
 ### 🌐 URLs:
 
-[**Redes sociales**](http://linktr.ee/khspmix)
+[**Redes sociales**](https://linktr.ee/ecosdeldoblaje)
 
 [**Web**](https://www.ecosdeldoblaje.es/)
 
