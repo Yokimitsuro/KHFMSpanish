@@ -79,7 +79,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### 🎬​ Dirección | Programación | Edición
 
-- **Dirección:** Anónimo
+- **Dirección:** PlasmaWAV
 - **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
 - **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
 
