@@ -102,7 +102,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Yuffie:** [AilinnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
 - **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
 - **Sephiroth:** [Sergio Dubs](https://www.instagram.com/sergio_dubs/)
-- **Aladdin:** [Riki De Hoyos(https://www.instagram.com/rikidubstudios/)
+- **Aladdin:** [Riki De Hoyos](https://www.instagram.com/rikidubstudios/)
 - **Madre de Sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
 - **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 - **Clayton:** [Angel Piñero (Gelote30)](https://www.instagram.com/gelote30?igsh=MTVnZmRtaXdoM3NmNg==)
