@@ -102,7 +102,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Yuffie:** [AilinnaDubs](https://www.youtube.com/channel/UCG2tmnI68M-pd2cd8zrwt3Q)
 - **Cloud:** [Erik Amamiya / Ren Shujin](https://www.instagram.com/erik_amamiya/)
 - **Sephiroth:** [Sergio Dubs](https://www.instagram.com/sergio_dubs/)
-
+- **Aladdin:** [Riki De Hoyos(https://www.instagram.com/rikidubstudios/)
 - **Madre de Sora, Maléfica:** [Nuria López](https://www.instagram.com/airun.locucionydoblaje?igsh=NXl2cmpvbGtiNjIz)
 - **Úrsula:** [Marta Arribas](https://www.instagram.com/jugando_con_voces?igsh=dGd5anhqYmM2ZWRr)
 - **Clayton:** [Angel Piñero (Gelote30)](https://www.instagram.com/gelote30?igsh=MTVnZmRtaXdoM3NmNg==)
@@ -111,11 +111,10 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Jafar, Smee:** [Antonio Jesús Vázquez (Doblandros)](https://www.instagram.com/doblandros/profilecard/?igsh=MXdmaGc5ODRxemN1Mw==)
 - **Floatsam:** [Borja Hernández Gil](https://www.instagram.com/dobla_bor?igsh=ejM0OHdiZGk3djJw)
 - **Ansem:** [Carlos Garrido (MantequiTV)](https://www.instagram.com/carlosgarrido.doblaje/)
-
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
 - **Alicia:** [Cati Ramis](https://www.instagram.com/artby.cati)
-- **Pinocho, Lock:** [Evama](https://www.youtube.com/@Evama2.0)
+- **Pinocho, Lock:** [Eva María Rojas Lobato](https://www.youtube.com/@Evama2.0)
 - **Mushu:** [Eloi Ortega](https://www.instagram.com/lexioltg/)
 - **Wendy, Jasmin:** [Udi Angulo](https://www.instagram.com/cl4.udi.4?igsh=MWxtdzdhZDN0cGc5ag==)
 - **Jack Skellington:** [Pedro Durán](https://www.tiktok.com/@pedroduranvoz?_t=ZN-8u9n7Sm8OwM&_r=1)
@@ -138,7 +137,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Menu principal (Dearly Beloved):** [Beyond The Guitar](https://www.youtube.com/@BeyondTheGuitar)
   
 - **Simple and Clean (Cover en Castellano):** [Marta Delgado Larios](https://www.youtube.com/@martadubs)
-- **Letra:** Charm (si alguien conoce sus redes sociales, que me lo diga, por favor)
+- **Letra:** [Charm](https://www.instagram.com/charmofficialmusic/)
 - **Mezcla y Mastering:** [OCOA](https://www.instagram.com/ocoa.music/)
 
 ### Vídeos RRSS
