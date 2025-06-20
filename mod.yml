@@ -11828,3 +11828,111 @@ assets:
   method: copy
   source:
   - name: remastered/voice/event/tz/tz_091.vset/tz2410ma.win32.scd
+- name: remastered/ew19.ard/-35b40.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-35b40.dds
+- name: remastered/ew19.ard/-35f80.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-35f80.dds
+- name: remastered/ew19.ard/-3e5c0.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-3e5c0.dds
+- name: remastered/ew19.ard/-3ea00.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-3ea00.dds
+- name: remastered/ew19.ard/-47040.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-47040.dds
+- name: remastered/ew19.ard/-47480.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-47480.dds
+- name: remastered/ew19.ard/-4fac0.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-4fac0.dds
+- name: remastered/ew19.ard/-4fac1.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-4fac1.dds
+- name: remastered/ew19.ard/-52380.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-52380.dds
+- name: remastered/ew19.ard/-62380.dds
+  method: copy
+  source:
+  - name: remastered/ew19.ard/-62380.dds
+- name: remastered/he04.ard/-118c0.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-118c0.dds
+- name: remastered/he04.ard/-11d00.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-11d00.dds
+- name: remastered/he04.ard/-1a340.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-1a340.dds
+- name: remastered/he04.ard/-1a780.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-1a780.dds
+- name: remastered/he04.ard/-22dc0.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-22dc0.dds
+- name: remastered/he04.ard/-22dc1.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-22dc1.dds
+- name: remastered/he04.ard/-25680.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-25680.dds
+- name: remastered/he04.ard/-35680.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-35680.dds
+- name: remastered/he04.ard/-460c1.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-460c1.dds
+- name: remastered/he04.ard/-58980.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-58980.dds
+- name: remastered/he04.ard/-8e40.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-8e40.dds
+- name: remastered/he04.ard/-9280.dds
+  method: copy
+  source:
+  - name: remastered/he04.ard/-9280.dds
+- name: remastered/pi12.ard/SP_pi12_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/pi12.ard/SP_pi12_ard3e8.binl
+- name: remastered/pi12.ard/SP_pi12_ard3ea.binl
+  method: copy
+  source:
+  - name: remastered/pi12.ard/SP_pi12_ard3ea.binl
+- name: remastered/pi12.ard/SP_pi12_ard3f4.binl
+  method: copy
+  source:
+  - name: remastered/pi12.ard/SP_pi12_ard3f4.binl
+- name: remastered/tw00_14.img/-12b100.dds
+  method: copy
+  source:
+  - name: remastered/tw00_14.img/-12b100.dds
+- name: remastered/tw00_14.img/-7b103.dds
+  method: copy
+  source:
+  - name: remastered/tw00_14.img/-7b103.dds
