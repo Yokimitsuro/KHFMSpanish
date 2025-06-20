@@ -79,10 +79,10 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 ### 🎬​ Dirección | Programación | Edición
 
-- **Dirección:** PlasmaWAV
+- **Dirección:** PlasmaWAV y [Yokimitsuro](https://x.com/Yokimitsuro)
 - **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
-- **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn)
-
+- **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn) y [Eva María Rojas Lobato](https://www.youtube.com/@Evama2.0)
+  
 ### 🎨 Arte
 - **Edición de Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
   
