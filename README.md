@@ -48,16 +48,6 @@
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
-### ⚙️ KH PC Patch Manager(método antiguo):
-
-1. Descarga el [mod](#).
-2. Descomprime el archivo en una carpeta nueva.
-3. Descarga la última versión de [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager/releases/) y colócala en la misma carpeta.
-4. Abre `KHPCPatchManager.exe`, selecciona la opción `Select Patch` y escoge el archivo `SpanishVoices001.kh2pcpatch`.
-5. Si todo va bien, presiona la opción `Apply Patch`. Si no lo hace automáticamente, selecciona la ubicación de tu juego (por ejemplo, `C:\KH_1.5_2.5\`).
-6. Espera hasta que diga "Patch applied!". Finalmente, cierra el programa.
-7. ¡Disfruta!
-
 ### 🎞️ Instrucciones videos (opcionales):
 
 - [**Canciones en Español**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
