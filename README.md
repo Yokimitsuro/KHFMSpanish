@@ -131,6 +131,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Barrel:** [Fran Mafé](https://x.com/SilveOfisialVA)
 - **Bestia:** [Luisma McFly](https://www.instagram.com/luismamcfly/?hl=es)
 - **Genio, Conejo, Pooh:** [aru_eru_x_x](https://youtube.com/@aru_eru_x_x?si=OyqZ8bdDNcDxpDON)
+- **Peter Pan:** [Novu](https://www.instagram.com/novu_holo)
 
 ### 🎶 Música
 
