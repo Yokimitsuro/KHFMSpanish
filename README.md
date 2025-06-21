@@ -48,16 +48,6 @@
 4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
 5. ¡Disfruta!
 
-### ⚙️ KH PC Patch Manager(método antiguo):
-
-1. Descarga el [mod](#).
-2. Descomprime el archivo en una carpeta nueva.
-3. Descarga la última versión de [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager/releases/) y colócala en la misma carpeta.
-4. Abre `KHPCPatchManager.exe`, selecciona la opción `Select Patch` y escoge el archivo `SpanishVoices001.kh2pcpatch`.
-5. Si todo va bien, presiona la opción `Apply Patch`. Si no lo hace automáticamente, selecciona la ubicación de tu juego (por ejemplo, `C:\KH_1.5_2.5\`).
-6. Espera hasta que diga "Patch applied!". Finalmente, cierra el programa.
-7. ¡Disfruta!
-
 ### 🎞️ Instrucciones videos (opcionales):
 
 - [**Canciones en Español**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
@@ -81,7 +71,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 
 - **Dirección:** PlasmaWAV y [Yokimitsuro](https://x.com/Yokimitsuro)
 - **Programación y Edición:** [Yokimitsuro](https://x.com/Yokimitsuro)
-- **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn) y [Eva María Rojas Lobato](https://www.youtube.com/@Evama2.0)
+- **Ayudante de Edición:** [Claudio Barbosa](https://youtube.com/@ultimateversus?si=JqkK65j4N_3iwhQn) y [Eva María Rojas Lobato](https://www.youtube.com/@EvamaDubs)
   
 ### 🎨 Arte
 - **Edición de Texturas:** [Alvaro Juadenes](https://www.instagram.com/alvarojaudenes.art/)
@@ -114,7 +104,7 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Hercules:** [Adri](https://x.com/adriiiits)
 - **Ariel:** [Thais Serrano](https://www.instagram.com/thaisdoblajes/)
 - **Alicia:** [Cati Ramis](https://www.instagram.com/artby.cati)
-- **Pinocho, Lock:** [Eva María Rojas Lobato](https://www.youtube.com/@Evama2.0)
+- **Pinocho, Lock:** [Eva María Rojas Lobato](https://www.youtube.com/@EvamaDubs)
 - **Mushu:** [Eloi Ortega](https://www.instagram.com/lexioltg/)
 - **Wendy, Jasmin:** [Udi Angulo](https://www.instagram.com/cl4.udi.4?igsh=MWxtdzdhZDN0cGc5ag==)
 - **Jack Skellington:** [Pedro Durán](https://www.tiktok.com/@pedroduranvoz?_t=ZN-8u9n7Sm8OwM&_r=1)
