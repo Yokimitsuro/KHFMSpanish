@@ -11936,3 +11936,147 @@ assets:
   method: copy
   source:
   - name: remastered/tw00_14.img/-7b103.dds
+- name: remastered/xa_ex_1580.mdls/rk04at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at00.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at01.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at02.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at03.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at04.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at05.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at06.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at07.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at08.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at09.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at10.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at11.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at12.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at13.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04at14.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04at14.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da00.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da01.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da02.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da03.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da04.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da05.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da06.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04da07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04da07.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex00.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex01.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex02.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex03.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex04.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex05.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex06.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex07.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex08.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex09.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex09.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex10.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex11.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex11.win32.scd
+- name: remastered/xa_ex_1580.mdls/rk04ex12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1580.mdls/rk04ex12.win32.scd
