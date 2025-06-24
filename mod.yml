@@ -12080,3 +12080,139 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1580.mdls/rk04ex12.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at01.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at02.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at03.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at06.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at10.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at10.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at12.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at12.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02at13.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02at13.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da00.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da01.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da02.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da03.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da04.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da05.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02da06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02da06.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02ex00.win32.scd
+- name: remastered/xa_ew_3020.mdls/lb02ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ew_3020.mdls/lb02ex06.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00at00.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00at01.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00at02.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00at03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00at03.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00at04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00at04.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00da00.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00da01.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00da02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00da02.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00da03.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex00.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex01.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex02.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex03.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex04.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex05.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex06.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex07.win32.scd
+- name: remastered/xa_ex_1630.mdls/an00ex08.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1630.mdls/an00ex08.win32.scd
