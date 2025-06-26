@@ -21,10 +21,10 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 86% Batallas.
+- ✔️ 100% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
-- 🕒 99% Ciudad de Paso.
+- ✔️ 100% Ciudad de Paso.
 - ✔️ 100% País de las Maravillas.
 - ✔️ 100% Coliseo.
 - ✔️ 100% Selva Profunda.
@@ -34,8 +34,8 @@
 - ✔️ 100% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
 - ✔️ 100% País de Nunca Jamás.
-- 🕒 68% Bastión Hueco.
-- 🕒 56% Fin del Mundo.
+- ✔️ 100% Bastión Hueco.
+- ✔️ 100% Fin del Mundo.
 
 **📜 Subtitulos adaptados al doblaje: 🕒45%**
 
