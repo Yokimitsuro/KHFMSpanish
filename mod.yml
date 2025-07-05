@@ -12316,3 +12316,11 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1160.mdls/rk03da0b.win32.scd
+- name: remastered/nm11.ard/SP_nm11_ard3e8.binl
+  method: copy
+  source:
+  - name: remastered/nm11.ard/SP_nm11_ard3e8.binl
+- name: remastered/tw23.ard/SP_tw23_ard3eb.binl
+  method: copy
+  source:
+  - name: remastered/tw23.ard/SP_tw23_ard3eb.binl
